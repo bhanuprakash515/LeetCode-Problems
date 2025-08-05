@@ -14,7 +14,7 @@ Each file contains:
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics Need To Be Covered
 
 - Arrays & Strings
 - Hash Tables
@@ -38,7 +38,7 @@ Each file contains:
 - ✅ Understand time and space complexity
 - ✅ Explore optimized solutions
 - ✅ Prepare for coding interviews
-
+- ✅ Let's do Together
 ---
 
 ## 🛠️ How to Use
@@ -48,6 +48,11 @@ Clone the repo and browse through the folders based on difficulty level:
 ```bash
 git clone [https://github.com/bhanuprakash515/LeetCode-Problems.git]
 
+```
+
 Linkedin Profile: [https://www.linkedin.com/in/bhanuprakashkurugodu/]
+MyResume: https://drive.google.com/file/d/1MICRcCIapHCOxtbQfe0qBElgWE-fmh9O/view?usp=drive_link
+
+
 
 
